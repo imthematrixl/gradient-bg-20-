@@ -1,0 +1,13 @@
+body{
+    width: 1500px;
+    background-size: cover;
+    background: radial-gradient(circle, #ff0084, #fa86e5, #85e9e1);
+    height: 100vh;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+}
